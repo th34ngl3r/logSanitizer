@@ -1,0 +1,6 @@
+﻿oldhostname,newhostname,oldip,newip
+server1,1server,10.10.10.1,192.168.0.1
+server3,3server,10.10.10.3,192.168.0.3
+server5,5server,10.10.10.5,192.168.0.5
+server7,7server,10.10.10.7,192.168.0.7
+server9,9server,10.10.10.9,192.168.0.9
